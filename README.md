@@ -1,2 +1,2 @@
-# Hypothesis-Testing-New-York-City-Airbnb-booking-Prices
-Hypothesis Testing: New York City Airbnb booking Prices
+#Hypothesis-Testing-Data-Science-salary-comparision-in-different-location
+Hypothesis Testing: Data Science salary comparision in different location
